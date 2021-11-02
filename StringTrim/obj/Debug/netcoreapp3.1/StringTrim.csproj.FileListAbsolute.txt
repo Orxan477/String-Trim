@@ -12,3 +12,17 @@ C:\Users\tu201906147\source\repos\StringTrim\StringTrim\obj\Debug\netcoreapp3.1\
 C:\Users\tu201906147\source\repos\StringTrim\StringTrim\obj\Debug\netcoreapp3.1\StringTrim.dll
 C:\Users\tu201906147\source\repos\StringTrim\StringTrim\obj\Debug\netcoreapp3.1\StringTrim.pdb
 C:\Users\tu201906147\source\repos\StringTrim\StringTrim\obj\Debug\netcoreapp3.1\StringTrim.genruntimeconfig.cache
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\bin\Debug\netcoreapp3.1\StringTrim.exe
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\bin\Debug\netcoreapp3.1\StringTrim.deps.json
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\bin\Debug\netcoreapp3.1\StringTrim.runtimeconfig.json
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\bin\Debug\netcoreapp3.1\StringTrim.runtimeconfig.dev.json
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\bin\Debug\netcoreapp3.1\StringTrim.dll
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\bin\Debug\netcoreapp3.1\StringTrim.pdb
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\obj\Debug\netcoreapp3.1\StringTrim.csproj.AssemblyReference.cache
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\obj\Debug\netcoreapp3.1\StringTrim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\obj\Debug\netcoreapp3.1\StringTrim.AssemblyInfoInputs.cache
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\obj\Debug\netcoreapp3.1\StringTrim.AssemblyInfo.cs
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\obj\Debug\netcoreapp3.1\StringTrim.csproj.CoreCompileInputs.cache
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\obj\Debug\netcoreapp3.1\StringTrim.dll
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\obj\Debug\netcoreapp3.1\StringTrim.pdb
+C:\Users\Orxan477\Source\Repos\String-Trim\StringTrim\obj\Debug\netcoreapp3.1\StringTrim.genruntimeconfig.cache
